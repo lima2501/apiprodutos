@@ -1,0 +1,1 @@
+api(crud) para cadastro de produtos feito em java, para fins de estudo da linguagem java, mysql e springboot.
